@@ -1,0 +1,13 @@
+file_format: "1"
+id: ricoh
+name: ricoh
+type: shield
+url: https://github.com/alpsfordays
+requires: 
+  - nice_nano_v2
+include:
+  snippet: studio-rpc-usb-uart
+exposes:
+  - power
+features:
+  - keys

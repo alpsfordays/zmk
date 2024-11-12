@@ -1,0 +1,11 @@
+file_format: "1"
+id: g84bean
+name: G84BEAN
+type: shield
+url: https://github.com/alpsfordays
+requires: 
+  - nice_nano_v2
+exposes:
+  - power
+features:
+  - keys

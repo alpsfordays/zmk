@@ -1,0 +1,12 @@
+if SHIELD_G84BEAN
+
+config ZMK_KEYBOARD_NAME
+    default "G84BEAN"
+
+config BT
+    default y
+
+config ZMK_BLE
+    default y
+
+endif

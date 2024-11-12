@@ -1,0 +1,2 @@
+config SHIELD_G84BEAN
+    def_bool $(shields_list_contains,g84bean)
